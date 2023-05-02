@@ -250,17 +250,26 @@
             </div>
         </div>
     </div>
-    <!-- CONTACT -->
+    <!-- Contact -->
     <div
         class="row justify-content-center align-self-center white-bg"
-        id="contact"
+        id="about-me-site"
     >
-        <div class="col-sm-12 col-md-6 bd-b">
+        <div class="col-sm-12 col-md-6">
             <div class="section-box row justify-content-center">
-                <div class="col-sm-4">
-                    <h2 class="title-dark">Contact me</h2>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h2 class="title-dark">Contact me</h2>
+                    </div>
+                    <div class="col-sm-8">
+                        <a href="mailto:pedro_uh147@outlook.es"
+                        class="mail-to ml-4"
+                            >
+                            <i class="bi bi-envelope"></i>
+                            pedro_uh147@outlook.es</a
+                        >
+                    </div>
                 </div>
-                <div class="col-sm-8" />
             </div>
         </div>
     </div>
@@ -330,5 +339,12 @@
         margin-bottom: 0.3rem;
         text-transform: capitalize;
         color: var(--primary-border);
+    }
+    .mail-to{
+        display: block;
+        margin-top: 1rem;
+        font-size: 1.3rem;
+        color: var(--base-text-dark);
+        font-weight: bold;
     }
 </style>

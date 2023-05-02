@@ -14,7 +14,6 @@
             <a class="logo animate__animated animate__fadeIn">
                 <img src="/assets/img/FullLogoDa2W.png" alt="Da2sofware logo" />
             </a>
-            <a href="#contact" class="animated fadeInLeft delay-0-4s">Contact</a>
             <a href="#skills" class="animated fadeInLeft delay-0-4s">Skills</a>
             <a href="#work-exp" class="animated fadeInLeft delay-0-4s">Work Experience</a>
             <a href="#education" class="animated fadeInLeft delay-0-3s">Education</a>
