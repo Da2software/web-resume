@@ -24,10 +24,10 @@
 	rel="stylesheet"
 />
 <Router>
-	<header>
+	<!-- <header>
 		<Navbar />
-	</header>
-	<main>
+	</header> -->
+	<main class="w-100">
 		<div>
 			<Route path="/"><Home /></Route>
 			<Route path="about"><About /></Route>
