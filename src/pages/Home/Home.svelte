@@ -11,8 +11,8 @@
     <div class="info-desc">
       <h6 id="contact-information">
         <!-- 97840, Yucatan México | 9992056369 | pedro.gil.uh@gmail.com -->
-        Yucatan, México | 9992056369 |
-        <a href="mailto:">pedro.gil.uh@gmail.com</a>
+        Yucatan, México | +529992056369 |
+        <a href="mailto:pedro.gil.uh@gmail.com">pedro.gil.uh@gmail.com</a>
         |
         <a href="http://github.com/Da2software" target="_blank" rel="Github"
           >Github</a
@@ -39,7 +39,7 @@
           </li>
           <li>
             Django, Express, FastApi, Flask, Vuejs, Angular, Svelte, React, Ruby
-            and rails, Tensorflow
+            and rails, Tensorflow (CNN, Autoencoders, Basic regression)
           </li>
         </div>
         <div class="col-6">
@@ -170,27 +170,30 @@
           </li>
         </p>
       </Work>
-      <Work Role={"Professional Achievements,"}>
+      <Work Role={"Professional Achievements"}>
         <p>
+          <li>
+            I developed a melanoma detector using Python and FastAPI, utilizing
+            a CNN model I built with TensorFlow.
+          </li>
           <li>
             I built a python game titled “space-invaders-like” as a personal
             challenge to learn how to use pygame.
           </li>
           <li>
-            I created a personal project with machine learning to restore an
-            historical picture from low quality to a high quality image. This
-            project was made using primarily Tensorflow, CUDA and AI for
-            denoising image created by me, along with a Microsoft AI project to
-            restore old photos.
+            I created a personal project using machine learning to restore
+            historical photos from low to high quality. This project primarily
+            used TensorFlow Autoencoder model, CUDA, along
+            with a Microsoft AI project for photo restoration.
           </li>
           <li>
             I gave a MEAN stack conference at Software House Mérida (2019).
           </li>
-          <li>
+          <!-- <li>
             I gave a conference about “Using Python and Raspberry pi to
             monitoring stevia growth” at “Instituto Tecnológico Superior del Sur
             del Estado de Yucatán” (ITSSY) (2019).
-          </li>
+          </li> -->
         </p>
       </Work>
     </Section>
