@@ -21,13 +21,13 @@
     </div>
     <Section title={"Professional Summary"}>
       <p class="mx-2 my-4">
-        I bring over five years of extensive experience in software development,
-        specializing in different back-end technologies such as Python(Django,
-        Flask and FastApi) or Nodejs(Express) and building applications
-        architectures from scratch. My proficiency spans both SQL and No-SQL
-        databases, I worked directly with US-based clients, and I collaborated
-        with cross-functional teams in an Agile environment. I’m a self-learner
-        and l enjoy sharing knowledge with others.
+        With six years of experience in software development, I specialize in
+        different back-end technologies such as Python(Django, Flask and
+        FastApi) or Nodejs(Express) and building application architectures from
+        scratch. My proficiency spans both SQL and No-SQL databases, I worked
+        directly with US-based clients, and I collaborated with cross-functional
+        teams in an Agile environment. I’m a self-learner and l enjoy sharing
+        knowledge with others.
       </p>
     </Section>
 
@@ -56,7 +56,7 @@
         Role={"Full Stack Developer"}
         Company={"Software House Mérida"}
         StarDate={"06/2018"}
-        EndDate={"Current"}
+        EndDate={"06/2024"}
       >
         <p>
           <i class="sub-role">Intermediate to Advanced Full Stack Developer:</i>
@@ -183,8 +183,8 @@
           <li>
             I created a personal project using machine learning to restore
             historical photos from low to high quality. This project primarily
-            used TensorFlow Autoencoder model, CUDA, along
-            with a Microsoft AI project for photo restoration.
+            used TensorFlow Autoencoder model, CUDA, along with a Microsoft AI
+            project for photo restoration.
           </li>
           <li>
             I gave a MEAN stack conference at Software House Mérida (2019).
